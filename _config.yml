@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-Au"
-title                    : "Bihan Guo / Site Title"
+title                    : "Bihan Guo's Website"
 title_separator          : "-"
 name                     : &name "Bihan Guo"
-description              : &description "personal description"
+description              : &description "Bihan Guo is a Research Fellow"
 url                      : https://bihanguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BihanGuo/BihanGuo.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5189-7813"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
