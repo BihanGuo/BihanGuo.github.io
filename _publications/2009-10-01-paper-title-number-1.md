@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Are succulence or trait combinations related to plant survival on hot and dry green roofs?"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
