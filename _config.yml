@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-Au"
-title                    : "Bihan Guo's Website"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Bihan Guo"
 description              : &description "personal description"
@@ -83,10 +83,10 @@ author:
   name             : "Bihan Guo"
   avatar           : "profile.png"
   bio              : "Research Fellow"
-  location         : "Location"
+  location         : "500 Yarra Blv, Richmond, Australia, 3121"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.au/citations?user=3xAc-csAAAAJ&hl=en&inst=4522501446918153378&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Bihan_Guo"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "BihanGuo"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
