@@ -7,6 +7,5 @@ date: 2021-07-06
 venue: 'Volume 64'
 paperurl: 'https://doi.org/10.1016/j.ufug.2021.127248'
 ---
-
 [Download paper here](http://bihanguo.github.io/files/paper_1.pdf)
 
