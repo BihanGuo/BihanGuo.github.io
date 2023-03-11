@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Demonstrator in Research Methods of Life Sciences"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Faculty of Science, University of Melbourne"
 date: 2014-01-01
-location: "City, Country"
+location: "Melbourne, Victoria, Australia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
