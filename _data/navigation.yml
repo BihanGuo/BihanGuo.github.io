@@ -16,8 +16,11 @@ main:
     url: /otherworkexperience/
     
   - title: "Skills" 
-    url:/Skills/
-  
+    url: /Skills/
+ 
+  - title: "Service and Leadership"
+    url: /serviceandleadership/
+ 
   - title: "CV"
     url: /cv/
     
