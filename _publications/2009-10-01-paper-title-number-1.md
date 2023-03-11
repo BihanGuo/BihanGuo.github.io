@@ -2,18 +2,14 @@
 title: "Are succulence or trait combinations related to plant survival on hot and dry green roofs?"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Highlights: 
-• We investigated how single traits or trait combinations relate to plant survival.
-• Greater substrate depth improved survival, woody plants survived better than herbs.
-• Survival was not related to succulence, water use, SLA, root:shoot ratio and T50.
-• Species with similar trait combinations had similar survival.'
+excerpt: 'We investigated how single traits or trait combinations relate to plant survival. Greater substrate depth improved survival, woody plants survived better than herbs.Survival was not related to succulence, water use, SLA, root:shoot ratio and T50. Species with similar trait combinations had similar survival.'
 date: 2021-07-06
 venue: 'Volume 64'
 paperurl: 'https://doi.org/10.1016/j.ufug.2021.127248'
-citation: '**Guo, B.**, Arndt, S.K., Miller, R.E., Lu, N., Farrell C. (2021). &quot;_Are succulence trait combinations related to plant survival on hot and dry green roofs? _.&quot; <i>Urban Forestry and Urban Greening</i>. 64: 127248.'
+citation: '<b>Guo, B.</b>, Arndt, S.K., Miller, R.E., Lu, N., Farrell C. (2021). &quot;<i>Are succulence trait combinations related to plant survival on hot and dry green roofs? </i>.&quot; <i>Urban Forestry and Urban Greening</i>, <i>64: 127248</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The many ecosystem services that green roofs can provide rely on good plant coverage and plant survival, which is challenging in hot and dry climates. While true succulents like Sedum spp. have been shown to survive well on green roofs, there are limited studies relating individual traits or trait combinations to survival in other life-forms. Succulence is a rarely studied trait that describes plant water storage in leaves, stems and roots, regardless of life-form. This means that succulence can occur in plants which are not considered to be true succulents like Sedum or Crassula species. Improving water availability through succulence may improve survival on unirrigated green roofs, but succulence, as a trait, has rarely been investigated in plants which are not true succulents. We investigated whether succulence or trait combinations can relate well with survival and could be used to improve plant selection for different substrate depths on hot and dry green roofs. We conducted two experiments with the same 11 Mediterranean species (five herbs, three sub-shrubs and three shrubs); (1) a pot experiment to determine traits under well-watered conditions including: succulence, leaf lethal temperature, water use, root:shoot ratio and leaf area. These individual traits and the combinations of all these traits were used in the analyses of this experiment; and (2) a green-roof module experiment to determine survival in four substrate depths (10, 15, 20, and 25 cm). Survival was not related to succulence, indicating that increased internal water storage in non-succulent plants does not per se lead to greater survival in extreme conditions. Survival was also not related to individual traits relating to water use and leaf heat tolerance or trait combinations. Nevertheless, plants in the same functional groups had similar survival, which suggests plants with similar trait combinations can have similar survival on green roofs.
 
 [Download paper here](http://bihanguo.github.io/files/paper_1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: <b>Guo, B.</b>, Arndt, S.K., Miller, R.E., Lu, N., Farrell C. (2021). &quot;<i>Are succulence trait combinations related to plant survival on hot and dry green roofs? </i>.&quot; <i>Urban Forestry and Urban Greening</i>, <i>64: 127248</i>.
