@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Other Work Experience"
-permalink: /otherworkexperience/
+permalink: /Otherworkexperience/
 author_profile: true
+redirect_from:
+  - /resume
 ---
