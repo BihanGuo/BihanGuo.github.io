@@ -1,7 +1,7 @@
 ---
 title: "How does leaf succulence relate with plant drought resistance in woody shrubs? "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Under Review'
 date: 2023-03-11
 venue: 'Unknown'
