@@ -10,11 +10,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Other Work Experience"
-    url: /Work_Experience/      
+  - title: "Professional Experience"
+    url: /Professional_Experience/        
     
   - title: "Skills"
     url: /Skills/
