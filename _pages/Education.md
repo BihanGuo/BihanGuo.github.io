@@ -8,7 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-* Ph.D in
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* 2019.03 - Today, Doctor of Philosophy - Science in Environmentally Sustainable Engineering, Plant Physiology, and Ecological Impacts of Climate Change and Ecological Adaptation
+* 2017.02 - 2018.12, Master of Science in Urban Horticulture
+* 2012.09 - 2016.06, Bachelor of Agriculture in Landscape Architecture
+
