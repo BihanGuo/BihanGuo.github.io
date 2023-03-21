@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bihan Guo"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,28 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is my Bio.
+Bihan Guo is a PhD student and researcher at the University of Melbourne, with a keen interest in ecophysiology. Her research focuses on the plant-water relations under drought, and how plants are able to survive and thrive in challenging environmental conditions.
 
-Green Roof
-======
-Solve environmental problem.
+During her Ph.D studies at the University of Melbourne, Bihan conducted extensive research on the plant-water relation in herbaceous and woody plants under hot and dry green roof context. Her research into how succulence, which is the total amount of plant stored water, affects green roof plant drought survival has helped to shed light on how plants are able to adapt to and survive in water-limited environments.
 
-Plants
-======
-Hard to survive
-
-Drought
-------
-frequently occur
-
-Water
-------
-need to be saved
-
-Succulence
-------
-is helpful
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Currently, Bihan is working as a research fellow in the Woody Meadow project at the University of Melbourne, where she is studying how the survival and plant performance after coppicing respond to different watering regimes. Her research has important implications for the development of more sustainable and resilient green spaces, and has the potential to contribute significantly to the field of ecophysiology.
