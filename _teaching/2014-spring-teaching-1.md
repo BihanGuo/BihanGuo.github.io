@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Science, University of Melbourne"
-date: 2020-03
+date: 2020-03-03
 location: "Melbourne, Victoria, Australia"
 ---
 
