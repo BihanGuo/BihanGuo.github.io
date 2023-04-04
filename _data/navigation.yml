@@ -9,6 +9,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
+ 
+   - title: "Professional Experience"
+    url: /Professional_Experience_1/
     
   - title: "Skills"
     url: /Skills/
