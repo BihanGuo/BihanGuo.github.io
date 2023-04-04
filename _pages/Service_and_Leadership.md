@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service_and_Leadership"
+title: "Service and Leadership"
 permalink: /Service_and_Leadership/
 author_profile: true
 redirect_from:
