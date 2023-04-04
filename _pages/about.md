@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bihan Guo is a Ph.D candidate (thesis submitted) and researcher at the University of Melbourne, with a keen interest in ecophysiology. Her research focuses on the plant-water relations during drought, and how plants are able to survive and thrive in challenging environmental conditions.
+Bihan Guo is a researcher at the University of Melbourne, with a keen interest in ecophysiology. Her research focuses on the plant-water relations during drought, and how plants are able to survive and thrive in challenging environmental conditions.
 
 During her Ph.D studies at the University of Melbourne, Bihan conducted extensive research on the plant-water relation in herbaceous and woody plants in hot and dry green roof contexts. Her research into how succulence, which is the total amount of plant stored water, affects green roof plant drought survival has helped to shed light on how plants are able to adapt to and survive in water-limited environments. 
 
