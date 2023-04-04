@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
 ## Demonstrator and Tutor - [HORT 90008 Horticulture Plant Science](https://handbook.unimelb.edu.au/2022/subjects/hort90008)
 ### Mar. 2022 - Jul. 2022	University of Melbourne
 * Prepared and delivered the practical sessions about plant science (morphology, physiology, etc.)
