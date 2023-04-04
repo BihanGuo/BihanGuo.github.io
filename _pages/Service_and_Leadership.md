@@ -11,3 +11,8 @@ redirect_from:
 
 ## Sustainability
 * Bronze Award in the 2022 Green Impact Program (November 2022), Sustainability Advocacy, Melbourne Plus 
+
+## Volunteer Work
+* Assisted with organising activities at Kevin Heinz Grow (May 2017 - May 2018)
+  * Prepared the horticultural activity materials
+  * Assisted to deal with pests and disease
