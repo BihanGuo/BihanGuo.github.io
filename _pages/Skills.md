@@ -14,7 +14,7 @@ redirect_from:
 *	Linux: Intermediate experience
 *	Microsoft Office: Intermediate experience
 *	Photoshop, CAD, SketchUp: Intermediate experience (drawing through shortcuts)
----
+
 ## Soft skills
 *	Communication (English and Chinese)
 *	Critical thinking
