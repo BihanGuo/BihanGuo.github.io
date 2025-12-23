@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Bihan Guo"
   avatar           : "Profile_Photo.jpg"
-  bio              : "Lecturer in Horticulture (MinZu College)|Researcher in Horticulture, Urban Ecology & Big Data Analytics (Yazhou Bay Innovation Institute)|Hainan Tropical Ocean University"
+  bio              :|
+    Lecturer in Horticulture (MinZu College)
+    Researcher in Horticulture, Urban Ecology & Big Data Analytics (Yazhou Bay Innovation Institute)
+    Hainan Tropical Ocean University
   location         : "Yucai Road 1, Sanya, Hainan, China"
   employer         :
   pubmed           : 
