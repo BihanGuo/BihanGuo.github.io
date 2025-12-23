@@ -30,7 +30,7 @@ redirect_from:
 *	Assist in organising professional practice activities, industry-university cooperation events, and student career guidance sessions
 
 ## Research Fellow in Ecophysiology & Urban Ecology
-### Mar. 2023 - Mar. 2025,	University of Melbourne
+### 6 Mar. 2023 - 6 Mar. 2025,	University of Melbourne
 *	Contribute significantly to the team's research effort and enhance research skills with increasing autonomy
 *	Conduct field surveys
 *	Measure plant responses to drought and coppicing in a controlled field experiment
