@@ -6,8 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+## Researcher in Big Data Analytics for Horticulture, Landscape Ecology and Conservation (South China Sea & National Parks)
+### 27 Nov. 2025 - Today, Yazhou Bay Innovation Institute of Hainan Tropical Ocean University
+* Lead and participate in big data research projects focused on horticultural and landscape ecological issues in the South China Sea region and national parks
+* Design and implement big data collection strategies for landscape resources, horticultural plants, and ecological environments in the South China Sea and national park areas
+* Process, clean, and analyze multi-source big data (e.g., remote sensing data, spatial geographic data, ecological monitoring data) related to horticulture and landscape
+* Develop and optimize big data analysis models for evaluating landscape ecological quality, horticultural resource conservation, and ecological restoration in study areas
+* Compile research findings into academic papers, research reports, and policy recommendations for South China Sea and national park landscape-horticultural big data applications
+* Collaborate with interdisciplinary teams (e.g., ecology, geography, computer science) to advance big data-driven solutions for landscape planning and horticultural conservation
+* Participate in academic conferences and exchange activities to share research progress on big data in horticulture and landscape ecology (South China Sea & national parks)
+* Construct and maintain big data resource databases for horticultural and landscape resources in the South China Sea and national park regions
+* Guide graduate students or research assistants in conducting big data-related research on horticulture and landscape ecology
+* Assist in writing project proposals and securing funding for big data research in horticultural and landscape fields related to the South China Sea and national parks
+
 ## Lecturer in Horticulture
-### Mar. 2025 - Today, Hainan Tropical Ocean University
+### 12 Mar. 2025 - Today, Hainan Tropical Ocean University
 *	Deliver undergraduate courses: Landscape Architecture 1, Landscape Architecture 2, Landscape Graphics, and Computer-Aided Design (specializing in AutoCAD, SketchUp, and Photoshop) for horticulture programs
 *	Fulfill a combined role of Subject Coordinator and Tutor, overseeing curriculum development, teaching plan formulation, and daily teaching administration for assigned courses
 *	Supervise and guide students' practical learning, including horticulture & landscape architecture-related experiments, course design, and graduation project mentoring
